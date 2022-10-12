@@ -1,0 +1,1 @@
+kill is used  send a signal to a process
